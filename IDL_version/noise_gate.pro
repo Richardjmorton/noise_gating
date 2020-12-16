@@ -156,6 +156,5 @@ ENDFOR
 ;correction factor for windowing
 ;only applicable for sin^4 window
 gated_data/=(1.5)^3
-stop
 
 END
