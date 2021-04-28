@@ -1,1 +1,1 @@
-from noise_gate.noise_gate_mod import noise_gate
+from noise_gate.noise_gate import noise_gate
